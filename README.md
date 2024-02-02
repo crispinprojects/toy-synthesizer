@@ -5,14 +5,14 @@ Toy musical synthesizer for Linux that generates audio notes using your computer
 The lower keys on the computer keyboard z to m are mapped to synthesized musical tones A to G.
 
 ```
--------------KEYS: ----------------| 
-       			           |
-  [z][x][c][v][b][n][m]            |
-                                   |
-------- MUSICAL TONES -------------|
-                                   |
-   [A][B][C][D][E][F][G]           |         
-___________________________________|
+|-------------KEYS: ----------------| 
+|       			    |
+|   [z][x][c][v][b][n][m]           |
+|                                   |
+|------- MUSICAL TONES -------------|
+|                                   |
+|   [A][B][C][D][E][F][G]           |         
+|___________________________________|
 ```
 
 Once compiled you run the toy synthesizer from the terminal using the command below.
@@ -21,7 +21,7 @@ Once compiled you run the toy synthesizer from the terminal using the command be
 ./toysynth
 ```
 
-You can make a piano-keys template using the diagrams at [Piano-Keyboard-Guide](https://www.piano-keyboard-guide.com/piano-notes.html) to fit on top of the computer keyboard.
+You can cut-out and make a piano-keys template using the diagrams at [Piano-Keyboard-Guide](https://www.piano-keyboard-guide.com/piano-notes.html) to fit on top of the computer keyboard.
 
 Test the synthesizer by tapping out a tune such as [Twinkle Twinkle Litte Star](https://www.letsplaykidsmusic.com/twinkle-twinkle-little-star-easy-piano-music/) which has the musical note sequence shown below.
 
@@ -65,6 +65,7 @@ To run the Toy Synthesizer from the terminal use
 ## To do
 
 * tones for sharps
+* different tone sounds
 
 ## Versioning
 
